@@ -1,4 +1,4 @@
 {
   "functionName": "<+serviceVariables.functionName>",
-   "role": "<+serviceVariables.role>"
+  "role": "<+serviceVariables.role>"
 }
