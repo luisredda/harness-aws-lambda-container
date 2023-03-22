@@ -1,4 +1,4 @@
 {
-   "runtime": "<+serviceVariables.runtime>",
+  "functionName": "<+serviceVariables.functionName>",
    "role": "<+serviceVariables.role>"
 }
