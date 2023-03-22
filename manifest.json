@@ -1,6 +1,4 @@
 {
    "runtime": "<+serviceVariables.runtime>",
-   "functionName": "<+serviceVariables.functionName>",
-   "handler": "<+serviceVariables.handler>",
-   "role": "<+serviceVariables.roleARN>"
+   "role": "<+serviceVariables.role>"
 }
